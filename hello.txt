@@ -20,3 +20,4 @@ this line is added in master.
 line added in b1 when there is a stash
 this line is added in master
 line added in b1 to test git stash
+another line added in b1 to test git stash
