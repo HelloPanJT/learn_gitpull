@@ -2,5 +2,6 @@ temp add
 master
 temp
 line add in b1
+second line added in b1
 master add
 line in master
