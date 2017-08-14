@@ -17,3 +17,5 @@ the line is added to test connnection
 another line is added in master to test connection
 the line is added in master to test connection.
 this line is added in master.
+this line is added in master
+line added in b1 to test git stash
