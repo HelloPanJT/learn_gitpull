@@ -2,3 +2,4 @@ temp add
 master
 temp
 master add
+line in master
