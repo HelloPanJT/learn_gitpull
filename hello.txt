@@ -10,3 +10,5 @@ line in master
 add one line by user3
 add another line by user3
 the line is added to test connnection
+
+the line is added in master to test connection.
