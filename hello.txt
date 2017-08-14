@@ -12,5 +12,6 @@ add one line by user3
 this line is added in b1.
 another line added in b1.
 add another line by user3
+line added in b1 when there is a stash
 this line is added in master
 line added in b1 to test git stash
